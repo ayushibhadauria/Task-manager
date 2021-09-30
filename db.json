@@ -1,0 +1,46 @@
+{
+  "tasks": [
+    {
+      "title": "skjab",
+      "description": "ksjk",
+      "id": 1
+    },
+    {
+      "title": "gjkb,",
+      "description": "jgjhgj",
+      "id": 2
+    },
+    {
+      "title": "DJKHK",
+      "description": "DHJK",
+      "id": 3
+    },
+    {
+      "title": "kjknk",
+      "description": "nhjhj",
+      "id": 4
+    },
+    {
+      "title": "dkhklahskl",
+      "description": "lnfkls",
+      "id": 5
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
